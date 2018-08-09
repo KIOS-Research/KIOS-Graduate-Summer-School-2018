@@ -1,6 +1,6 @@
 # Regression exercise
 
-## Objective
+## Objectives
 In this exercise you will be asked to predict the energy efficiency of buildings given various building parameters, such as, the surface area and height. You will become familiar with *pandas* (a powerful tool for data analysis) and *scikit-learn* (a popular machine learning library).
 
 ## Problem description
