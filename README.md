@@ -5,10 +5,13 @@
 -`Anaconda` is an environment which makes it easy to setup various languages and tools, such as `Python`. 
 
 ## Instructions on how to install Anaconda and Python 2.7
-1. Download `Python 2.7 version` from the Anaconda website (https://www.anaconda.com/download/). *Please make sure you select the `2.7` version.*
+1. Download `Python 2.7 version` from the Anaconda website (https://www.anaconda.com/download/). *Make sure you select the `2.7` version.* 
 2. When prompted in instalation, select `Add Anaconda to my PATH environment variable` 
 3. When installation has finished, run `Anaconda Prompt`. This will open a command line window in Windows.
 4. Run the command `jupyter notebook`. This should open a local jupyter notebook.
+
+Reference:
+- https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444
 
 ## Python Packages
 (to be completed)
