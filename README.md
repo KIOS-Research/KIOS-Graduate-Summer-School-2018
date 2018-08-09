@@ -24,7 +24,7 @@ You may install the following packages using Anaconda:
 - Scikit-learn
 - CVXPy
 
-**Regression**: numpy, pandas, sklearn, matplotlib and pydot
+**Regression**: numpy, pandas, sklearn, matplotlib, pydot, scipy
 
 ## Tutorials
 Preparation material as follows:
