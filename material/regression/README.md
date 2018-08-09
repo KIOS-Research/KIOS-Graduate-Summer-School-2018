@@ -22,4 +22,4 @@ You will be asked to predict the heating load and cooling load of buildings give
 This dataset appears in: *A. Tsanas, A. Xifara: 'Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools', Energy and Buildings, Vol. 49, pp. 560-567, 2012.*
     
 ## Required software
-Make sure you have *Python 2.7* installed and the following Python packages: *jupyter*, *numpy*, *pandas*, *sklearn*, *matplotlib* and *pydot*. For installation instructions and tutorials please refer to the *README* file at the root directory.
+Make sure you have *Python 2.7* installed and the following Python packages: *jupyter*, *numpy*, *pandas*, *sklearn*, *matplotlib*, *pydot* and *scipy*. For installation instructions and tutorials please refer to the *README* file at the root directory.
