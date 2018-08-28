@@ -26,7 +26,7 @@ You may install the following packages using Anaconda:
 
 **Regression**: numpy, pandas, sklearn, matplotlib, pydot, scipy
 
-## Tutorials
+## Prerequisites
 Preparation material as follows:
 - Python and Numpy [tutorial](http://cs231n.github.io/python-numpy-tutorial/#python)
 - Juyter Notebook [tutorial](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46)
