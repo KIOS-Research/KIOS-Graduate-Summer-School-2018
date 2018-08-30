@@ -7,13 +7,22 @@
 
 ## Instructions on how to install Anaconda and Python 2.7
 
-1. Download `Python 2.7 version` from the Anaconda website (https://www.anaconda.com/download/). *Make sure you select the `2.7` version.* 
+### On Windows
+
+1. Download `Python 2.7 version` from the [Anaconda website](https://www.anaconda.com/download/). *Make sure you select the `2.7` version.* 
 2. When prompted in instalation, select `Add Anaconda to my PATH environment variable` 
 3. When installation has finished, run `Anaconda Prompt`. This will open a command line window in Windows.
 4. Run the command `jupyter notebook`. This should open a local jupyter notebook.
 
 Reference:
-- https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444
+- [Installing Python on Windows](https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444)
+
+### On Linux/Unix
+
+1. Download `Python 2.7 version` from the [Anaconda website](https://www.anaconda.com/download/)
+2. Open a terminal and `cd` to the installation folder
+3. Enter the `bin/` directory (at `anaconda-base-dir/bin`) and run `source activate root`; this will activate the `root` (default) Anaconda environment
+4. Start the anaconda navigator by running `./anaconda-navigator`
 
 ## Python Packages
 
