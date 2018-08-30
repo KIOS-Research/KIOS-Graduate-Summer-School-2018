@@ -24,6 +24,8 @@ Reference:
 3. Enter the `bin/` directory (at `anaconda-base-dir/bin`) and run `source activate root`; this will activate the `root` (default) Anaconda environment
 4. Start the anaconda navigator by running `./anaconda-navigator`
 
+Read [this tutorial](anaconda/README.md) on how to use the anaconda navigator.
+
 ## Python Packages
 
 You may install the following packages using Anaconda:
