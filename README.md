@@ -1,11 +1,12 @@
 # KIOS-Graduate-Summer-School-2018
-## Definitions
-- `Python` is one of the most popular programming languages used extensively in web development, as well as in science and engineering (including data science). In this course we will use `Python 2.7`.
-- `Jypyter` is a browser-based tool which allows us to interface with `Python` in an easy way. We can create `notebooks` which we can share so that others can replicate our work and make changes.
--`Anaconda` is an environment which makes it easy to setup various languages and tools, such as `Python`. 
+
+## Introduction
+- `Python` is one of the most popular programming languages used extensively in web development, as well as in science and engineering (including data science). In this course we will be using `Python 2.7`.
+- `Jypyter` is a browser-based tool which allows us to interface with `Python` in an easy way. Jupyter is primarily used for educational purposes - not for development. We can create `notebooks` which we can share so that others can replicate our work and make changes.
+- `Anaconda` is an environment which makes it easy to setup various languages and tools, such as `Python`. 
 
 
-## Instructions on how to install Anaconda and Python 2.7
+## Installation instructions
 
 ### On Windows
 
@@ -37,7 +38,7 @@ You may install the following packages using Anaconda:
 
 **Regression exercise**: numpy, pandas, sklearn, matplotlib, pydot, scipy
 
-**Note:** If a package is not included in Anaconda, use [conda](https://conda.io/docs/user-guide/tasks/manage-pkgs.html) to install it.
+**Note:** If a package is not included in Anaconda, use [conda](https://conda.io/docs/user-guide/tasks/manage-pkgs.html) to install it; read [this tutorial](anaconda/README.md) on how to install packages using the anaconda navigator.
 
 ## Prerequisites
 Preparation material as follows:
@@ -45,3 +46,4 @@ Preparation material as follows:
 - Juyter Notebook [tutorial](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46)
 - Pandas [tutorial](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 - Scikit-learn [tutorial1](https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/) and [tutorial2](http://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html)
+- CVXPy [tutorial](http://www.cvxpy.org/) (optional, since we will explain eveything in class)
