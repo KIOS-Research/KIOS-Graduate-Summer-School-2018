@@ -39,6 +39,8 @@ You may install the following packages using Anaconda:
 - Scikit-learn
 - CVXPy
 
+**Classification exercise**: numpy, sklearn, matplotlib, seaborn, scipy
+
 **Regression exercise**: numpy, pandas, sklearn, matplotlib, pydot, scipy
 
 **Note:** If a package is not included in Anaconda, use [conda](https://conda.io/docs/user-guide/tasks/manage-pkgs.html) to install it; read [this tutorial](anaconda/README.md) on how to install packages using the anaconda navigator.
