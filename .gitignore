@@ -1,0 +1,6 @@
+*~
+*.odt
+*.odp
+.~lock.*#
+*-checkpoint.ipynb
+*.autosave
