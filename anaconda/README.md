@@ -14,11 +14,18 @@ From within the new environment you have created...
 
 Open a terminal and activate your environment:
 
+On Windows:
+```
+activate <nameOfYourEnvironment>
+```
+
+On Linux/Unix:
 ```
 source activate <nameOfYourEnvironment>
 ```
 
-and then run:
+
+and then run (these are the same commands on all OSs):
 
 ```
 conda install -c conda-forge lapack
