@@ -43,7 +43,10 @@ You may install the following packages using Anaconda:
 
 **Regression exercise**: numpy, pandas, sklearn, matplotlib, pydot, scipy
 
-**Note:** If a package is not included in Anaconda, use [conda](https://conda.io/docs/user-guide/tasks/manage-pkgs.html) to install it; read [this tutorial](anaconda/README.md) on how to install packages using the anaconda navigator.
+**Notes:**
+
+- If a package is not included in Anaconda read [this tutorial](anaconda/README.md) on how to install packages using the anaconda navigator, or use [conda](https://conda.io/docs/user-guide/tasks/manage-pkgs.html) in the terminal.
+- Run this [notebook](anaconda/installation_test.ipynb) to test if the packages are installed succesfully.
 
 ## Prerequisites
 Preparation material as follows:
