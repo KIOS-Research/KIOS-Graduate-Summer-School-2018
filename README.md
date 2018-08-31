@@ -1,4 +1,7 @@
-# KIOS-Graduate-Summer-School-2018
+# KIOS Graduate Summer School 2018
+
+Summer school web site: [http://www.kios.ucy.ac.cy/summer-school/](www.kios.ucy.ac.cy/summer-school/)
+
 
 ## Introduction
 - `Python` is one of the most popular programming languages used extensively in web development, as well as in science and engineering (including data science). In this course we will be using `Python 2.7`.
