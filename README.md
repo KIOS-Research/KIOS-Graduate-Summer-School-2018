@@ -1,6 +1,6 @@
 # KIOS Graduate Summer School 2018
 
-Summer school web site: [http://www.kios.ucy.ac.cy/summer-school/](www.kios.ucy.ac.cy/summer-school/)
+Summer school web site: [www.kios.ucy.ac.cy/summer-school/](http://www.kios.ucy.ac.cy/summer-school/)
 
 
 ## Introduction
