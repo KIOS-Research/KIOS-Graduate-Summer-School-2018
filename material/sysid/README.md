@@ -1,15 +1,17 @@
 ## System identification module
 
-Material for the system identification module of the workshop
+Material for the system identification module of the workshop of the [KIOS Graduate Summer School 2018](http://www.kios.ucy.ac.cy/summer-school/).
 
-Folder contents:
+### Folder contents
 
-1. `sysid_linsys_ls`: python notebook for linear system identification by regularized least squares
-2. `sysid_rkhs`: python notebook for nonlinear system identification by kernel-based methods
+1. [sysid_linsys_ls](./sysid_linsys_ls.ipynb): python notebook for linear system identification by regularized least squares
+2. [sysid_rkhs](./sysid_rkhs.ipynb): python notebook for nonlinear system identification by kernel-based methods and description of the system identification task for the competition
 
 ### Summary
 
-In this module we will go through some of the most popular system identification methodologies; we will start with start with identification methods for linear dynamical systems using (regularized) least squares. In particular, we will venture a detailed formulation of such least-squares problems and solve them using CVXPy - a popular tool for numerical optimization. The second part of this module will focus on the identification of nonlinear systems using the kernel trick. After a short introduction to reproducing kernel Hilbert spaces and the exposition of a few key theoretical results, we will use kernel-based method to identify nonlinear systems. We will demonstrate how powerful these methods are by identifying a chaotic system from data.
+In this module we will go through some of the most popular system identification methodologies; we will start with start with identification methods for **linear** dynamical systems using **regularized least squares**. In particular, we will venture a detailed formulation of such least-squares problems and solve them using CVXPy - a popular tool for numerical optimization. 
+
+The second part of this module will focus on the identification of **nonlinear** systems using the kernel trick. After a short introduction to **reproducing kernel Hilbert spaces** and the exposition of a few key theoretical results, we will use kernel-based methods to identify nonlinear systems. We will demonstrate how powerful these methods are by identifying a chaotic system from data.
 
 
 ### Recommended literature
@@ -24,4 +26,4 @@ In this module we will go through some of the most popular system identification
 
 ### Competition
 
-The workshop will be concluded by a competition which will feature three tasks, one for each module. For the system identification module, participants will identify an unknown nonlinear system using input-output data.
+The workshop will be concluded by a competition which will feature three tasks, one for each module. For the system identification module, participants will identify an unknown nonlinear system using [input-output data](./data/README.md).
