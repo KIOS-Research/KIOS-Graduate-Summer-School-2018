@@ -43,6 +43,7 @@ You may install the following packages using Anaconda:
 
 **Regression exercise**: numpy, pandas, sklearn, matplotlib, pydot, scipy
 
+**System identification exercise**: numpy, matplotlib, cvxpy, scipy, (statsmodels)
 **Notes:**
 
 - If a package is not included in Anaconda read [this tutorial](anaconda/README.md) on how to install packages using the anaconda navigator, or use [conda](https://conda.io/docs/user-guide/tasks/manage-pkgs.html) in the terminal.
