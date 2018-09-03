@@ -28,6 +28,10 @@ Reference:
 3. Enter the `bin/` directory (at `anaconda-base-dir/bin`) and run `source activate root`; this will activate the `root` (default) Anaconda environment
 4. Start the anaconda navigator by running `./anaconda-navigator`
 
+
+
+### Using Anaconda Navigator
+
 Read [this tutorial](anaconda/README.md) on how to use the anaconda navigator.
 
 ## Python Packages
@@ -37,13 +41,13 @@ You may install the following packages using Anaconda:
 - Numpy
 - Scipy
 - Scikit-learn
-- CVXPy
+- CVXPY
 
 **Classification exercise**: numpy, sklearn, matplotlib, seaborn, scipy
 
 **Regression exercise**: numpy, pandas, sklearn, matplotlib, pydot, scipy
 
-**System identification exercise**: numpy, matplotlib, cvxpy, scipy, (statsmodels)
+**System identification exercise**: numpy, matplotlib, cvxpy, scipy
 
 
 **Notes:**
@@ -57,4 +61,4 @@ Preparation material as follows:
 - Juyter Notebook [tutorial](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46)
 - Pandas [tutorial](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 - Scikit-learn [tutorial1](https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/) and [tutorial2](http://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html)
-- CVXPy [tutorial](http://www.cvxpy.org/) (optional, since we will explain eveything in class)
+- CVXPY [tutorial](http://www.cvxpy.org/) (optional, since we will explain eveything in class)
