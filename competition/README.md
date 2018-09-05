@@ -6,7 +6,7 @@ The competition consists of three parts. Please use the links below to join each
 To join the competition please use this [link](https://www.kaggle.com/t/22b78ea0ab564dc4bb676d847f5719d1)
 
 ## Part 2: Classification
-To join the competition please use this [link]()
+To join the competition please use this [link](https://www.kaggle.com/t/5652cbaedd184edeb76b40b9ed419fca)
 
 ## Part 3: System Identification
 To join the competition please use this [link]()
