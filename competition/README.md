@@ -9,4 +9,4 @@ To join the competition please use this [link](https://www.kaggle.com/t/22b78ea0
 To join the competition please use this [link](https://www.kaggle.com/t/5652cbaedd184edeb76b40b9ed419fca)
 
 ## Part 3: System Identification
-To join the competition please use this [link]()
+To join the competition please use this [link](https://github.com/KIOS-Research/KIOS-Graduate-Summer-School-2018/tree/master/material/sysid)
