@@ -18,15 +18,14 @@ You will be asked to predict the heating load and cooling load of buildings give
     y1 Heating Load
     y2 Cooling Load
     
-
 This dataset appears in: *A. Tsanas, A. Xifara: 'Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools', Energy and Buildings, Vol. 49, pp. 560-567, 2012.*
 
 ## Prerequisites
 
-Software:<br/>
+### Software
 Make sure you have *Python 2.7* installed and the following Python packages: *jupyter*, *numpy*, *pandas*, *sklearn*, *matplotlib*, *pydot* and *scipy*. For installation instructions please refer to the *README* file at the root directory.
 
-Tutorials:
+### Tutorials
 - Python and Numpy [tutorial](http://cs231n.github.io/python-numpy-tutorial/#python)
 - Juyter Notebook [tutorial](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46)
 - Pandas [tutorial](https://pandas.pydata.org/pandas-docs/stable/10min.html)
