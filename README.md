@@ -38,17 +38,11 @@ Read [this tutorial](anaconda/README.md) on how to use the anaconda navigator.
 
 You may install the following packages using Anaconda:
 
-- Numpy
-- Scipy
-- Scikit-learn
-- CVXPY
-
 **Classification exercise**: numpy, sklearn, matplotlib, seaborn, scipy
 
 **Regression exercise**: numpy, pandas, sklearn, matplotlib, pydot, scipy
 
 **System identification exercise**: numpy, matplotlib, cvxpy, scipy
-
 
 **Notes:**
 
